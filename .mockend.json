@@ -1,0 +1,9 @@
+{
+    "Blog": {
+        "id": "int",
+        "title": "string",
+        "body": "string",
+        "date": "date",
+        "imageUrl": "string"
+    }
+}
