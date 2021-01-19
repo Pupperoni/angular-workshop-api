@@ -1,0 +1,31 @@
+{
+    "blogs": [
+        {
+            "id": 1,
+            "title": "My First Blog Post for 2021",
+            "body": "Wow! What a wonderful year to start my very first blog. 2020 might have been really hard for everyone but I sure hope that 2021 will be a really fun and great year. This is the time to heal and improve upon ourselves. Welp, that's it for now in this post. See you guys soon and thanks for reading!!!",
+            "date": 1609664147000,
+            "imageUrl": "https://st3.depositphotos.com/9184056/31727/i/450/depositphotos_317273154-stock-photo-glossy-2021-new-year-holiday.jpg"
+        },
+        {
+            "id": 2,
+            "title": "I saw a weird TV commercial",
+            "body": "Last night, I was sitting on the couch with our family dog on my lap when suddenly a really unsettling TV commercial popped up. It was the new Grubhub ad that I heard about online but I've only watched it now. Never have I felt so uncomfortable watching a commercial before. I'm probably never going to download Grubhub after watching that.",
+            "date": 1610204599000
+        },
+        {
+            "id": 3,
+            "title": "I liked snakes",
+            "body": "When I was a kid, I had a dream where I was going to get my first job. It was my supposed to be my first day in office and my first time meeting my boss. When I was ringed to go to my boss's office, I was surprised when I found a snake wearing a suit. I wasn't scared tho and he just asssked me if I wassss comfortable with the atmossssssphere to which I replied, 'Yesssss'. I immediately woke up after that.",
+            "date": 1610377399000,
+            "imageUrl": "https://static.demilked.com/wp-content/uploads/2018/03/5aaa1cc1d8480-funny-weird-wtf-stock-photos-1-5a39255d726bb__700.jpg"
+        },
+        {
+            "id": 4,
+            "title": "My Last Blog Post",
+            "body": "I can't believe that it is still January and the world is still falling apart! Maybe 2020 wasn't the reason for the world being miserable. It is probably decades of unattended abuse towards the planet that we live in. Now I realize that in order for our lives to improve, we need to make a change! I am still hopeful for 2021 - hopeful that a turning point in our lives can be made by our collective effort! ",
+            "date": 1610895799000,
+            "imageUrl": "https://onmogul.s3.amazonaws.com/uploads/story/thumbnail/66541/de5cad71e1.jpg"
+        }
+    ]
+}
